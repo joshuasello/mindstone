@@ -5,6 +5,8 @@ The main of this project is to explore different methodologies for creating, tes
 
 ## Installation
 Installing using setuptools:
-``git clone https://github.com/joshuasello/mindstone.git``
-``cd mindstone``
-``python setup.py install``
+```
+git clone https://github.com/joshuasello/mindstone.git
+cd mindstone
+python setup.py install
+```
